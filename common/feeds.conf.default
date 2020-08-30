@@ -6,4 +6,4 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git helloword https://github.com/fw876/helloworld
-
+src-git argon https://github.com/jerrykuku/luci-theme-argon.git  
